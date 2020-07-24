@@ -3,4 +3,4 @@
 # learning cure
 ![image](image/train&&eval.PNG)
 # detection result
-![image](image/result_1.PNG)
+![image](image/result_1.png)
